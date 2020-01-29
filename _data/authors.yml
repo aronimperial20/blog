@@ -1,1 +1,9 @@
-,
+blackleitus:
+  username: blackleitus
+  name: blackleitus
+  url_full: http://skybulk.github.io/
+  url: skybulk.github.io
+  bio: The professional publishing platform
+  picture: assets/images/ghost.png
+  twitter: blackleitus
+  cover: False
